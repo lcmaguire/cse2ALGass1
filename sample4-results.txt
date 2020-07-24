@@ -1,0 +1,85 @@
+ma?
+man 2
+map 1
+mat 1
+may 1
+
+?ear*
+dear 1
+heard 1
+hearing 1
+wearing 1
+
+can
+can 1
+
+mr*
+mr 3
+mrs 1
+
+i*
+i 1
+impatiently 1
+in 3
+invitation 1
+is 5
+it 5
+
+?o?
+for 1
+not 2
+too 1
+you 5
+zoo 1
+
+*y*
+by 1
+day 1
+impatiently 1
+lady 1
+may 1
+my 1
+property 1
+universally 1
+yaks 2
+yes 1
+you 5
+
+*m??*
+families 1
+impatiently 1
+made 1
+man 2
+map 1
+mat 1
+may 1
+meet 1
+minds 1
+mrs 1
+must 1
+wombats 1
+
+*o?
+for 1
+from 1
+good 1
+invitation 1
+know 1
+neighbourhood 1
+not 2
+objection 1
+of 6
+on 2
+or 2
+possession 1
+too 1
+you 5
+zoo 1
+
+k*w*
+know 1
+known 1
+
+this*will?return0
+No words in the lexicon match the pattern
+
